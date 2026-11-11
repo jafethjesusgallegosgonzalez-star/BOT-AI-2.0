@@ -354,4 +354,4 @@ async def duck(ctx):
 # INICIAR BOT
 # ==========================================
 
-bot.run("MTQ4NzIyODg2MzQ1MTg5Mzg0Mg.G15aYi.8IXV9uBRFB8pTpbGJGO-NXrFEbjwXXCTwvDMyQ")
+bot.run("")
